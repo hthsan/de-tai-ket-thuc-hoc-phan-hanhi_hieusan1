@@ -1,0 +1,57 @@
+H:\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.exe
+H:\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.pdb
+H:\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\obj\Debug\ResolveAssemblyReference.cache
+H:\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.FormMain.resources
+H:\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.Form2.resources
+H:\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.Form3.resources
+H:\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.Properties.Resources.resources
+H:\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.csproj.GenerateResource.Cache
+H:\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\bin\Debug\Bai_Tap_Nhom_8.exe
+H:\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\bin\Debug\Bai_Tap_Nhom_8.pdb
+H:\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\bin\Debug\DevComponents.DotNetBar2.xml
+H:\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.Form4.resources
+H:\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.Form5.resources
+C:\Documents and Settings\welcome\Desktop\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.exe
+C:\Documents and Settings\welcome\Desktop\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.pdb
+C:\Users\Administrator\Desktop\New folder\Nhom_8 game\Nhom_8 game\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.exe
+C:\Users\Administrator\Desktop\New folder\Nhom_8 game\Nhom_8 game\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.pdb
+C:\Users\Administrator\Desktop\New folder\Nhom_8 game\Nhom_8 game\Bai_Tap_Nhom_8\bin\Debug\Bai_Tap_Nhom_8.exe
+C:\Users\Administrator\Desktop\New folder\Nhom_8 game\Nhom_8 game\Bai_Tap_Nhom_8\bin\Debug\Bai_Tap_Nhom_8.pdb
+C:\Users\Administrator\Desktop\New folder\Nhom_8 game\Nhom_8 game\Bai_Tap_Nhom_8\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Administrator\Desktop\New folder\Nhom_8 game\Nhom_8 game\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder\Nhom_8 game\Nhom_8 game\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.FormMain.resources
+C:\Users\Administrator\Desktop\New folder\Nhom_8 game\Nhom_8 game\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.Form2.resources
+C:\Users\Administrator\Desktop\New folder\Nhom_8 game\Nhom_8 game\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.Form3.resources
+C:\Users\Administrator\Desktop\New folder\Nhom_8 game\Nhom_8 game\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.Form4.resources
+C:\Users\Administrator\Desktop\New folder\Nhom_8 game\Nhom_8 game\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.Form5.resources
+C:\Users\Administrator\Desktop\New folder\Nhom_8 game\Nhom_8 game\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder\Nhom_8 game\Nhom_8 game\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Lập trình nâng cao\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.exe
+C:\Users\Administrator\Desktop\Lập trình nâng cao\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.pdb
+C:\Users\Administrator\Desktop\Lập trình nâng cao\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Lập trình nâng cao\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.FormMain.resources
+C:\Users\Administrator\Desktop\Lập trình nâng cao\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.Form2.resources
+C:\Users\Administrator\Desktop\Lập trình nâng cao\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.Form3.resources
+C:\Users\Administrator\Desktop\Lập trình nâng cao\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.Form4.resources
+C:\Users\Administrator\Desktop\Lập trình nâng cao\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.Form5.resources
+C:\Users\Administrator\Desktop\Lập trình nâng cao\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.Form6.resources
+C:\Users\Administrator\Desktop\Lập trình nâng cao\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Lập trình nâng cao\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Lập trình nâng cao\Bai_Tap_Nhom_8\bin\Debug\Bai_Tap_Nhom_8.exe
+C:\Users\Administrator\Desktop\Lập trình nâng cao\Bai_Tap_Nhom_8\bin\Debug\Bai_Tap_Nhom_8.pdb
+C:\Users\Administrator\Desktop\Lập trình nâng cao\Bai_Tap_Nhom_8\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Administrator\Downloads\Lập-trình-nâng-cao (1)\Lập trình nâng cao\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.exe
+C:\Users\Administrator\Downloads\Lập-trình-nâng-cao (1)\Lập trình nâng cao\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\Lập-trình-nâng-cao (1)\Lập trình nâng cao\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.FormMain.resources
+C:\Users\Administrator\Downloads\Lập-trình-nâng-cao (1)\Lập trình nâng cao\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.Form2.resources
+C:\Users\Administrator\Downloads\Lập-trình-nâng-cao (1)\Lập trình nâng cao\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.Form3.resources
+C:\Users\Administrator\Downloads\Lập-trình-nâng-cao (1)\Lập trình nâng cao\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.Form4.resources
+C:\Users\Administrator\Downloads\Lập-trình-nâng-cao (1)\Lập trình nâng cao\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.Form5.resources
+C:\Users\Administrator\Downloads\Lập-trình-nâng-cao (1)\Lập trình nâng cao\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.Form6.resources
+C:\Users\Administrator\Downloads\Lập-trình-nâng-cao (1)\Lập trình nâng cao\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Lập-trình-nâng-cao (1)\Lập trình nâng cao\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\Lập-trình-nâng-cao (1)\Lập trình nâng cao\Bai_Tap_Nhom_8\obj\Debug\game.FormMain.resources
+C:\Users\Administrator\Downloads\Lập-trình-nâng-cao (1)\Lập trình nâng cao\Bai_Tap_Nhom_8\obj\Debug\game.Form2.resources
+C:\Users\Administrator\Downloads\Lập-trình-nâng-cao (1)\Lập trình nâng cao\Bai_Tap_Nhom_8\obj\Debug\game.Form3.resources
+C:\Users\Administrator\Downloads\Lập-trình-nâng-cao (1)\Lập trình nâng cao\Bai_Tap_Nhom_8\obj\Debug\game.Form4.resources
+C:\Users\Administrator\Downloads\Lập-trình-nâng-cao (1)\Lập trình nâng cao\Bai_Tap_Nhom_8\obj\Debug\game.Form5.resources
