@@ -1,0 +1,15 @@
+H:\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.exe
+H:\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.pdb
+H:\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\obj\Debug\ResolveAssemblyReference.cache
+H:\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.FormMain.resources
+H:\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.Form2.resources
+H:\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.Form3.resources
+H:\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.Properties.Resources.resources
+H:\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.csproj.GenerateResource.Cache
+H:\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\bin\Debug\Bai_Tap_Nhom_8.exe
+H:\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\bin\Debug\Bai_Tap_Nhom_8.pdb
+H:\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\bin\Debug\DevComponents.DotNetBar2.xml
+H:\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.Form4.resources
+H:\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.Form5.resources
+C:\Documents and Settings\welcome\Desktop\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.exe
+C:\Documents and Settings\welcome\Desktop\Bai_Tap_Nhom_8\Bai_Tap_Nhom_8\obj\Debug\Bai_Tap_Nhom_8.pdb

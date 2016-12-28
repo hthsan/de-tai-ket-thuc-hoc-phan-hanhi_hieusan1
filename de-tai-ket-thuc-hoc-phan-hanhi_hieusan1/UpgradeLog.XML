@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="game">
+</Property><Property Name="Solution File" Value="C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\game.sln">
+</Property><Property Name="Date" Value="Thursday, December 01, 2016">
+</Property><Property Name="Time" Value="7:28:10 AM">
+</Property></Properties><Event ErrorLevel="0" Project="game" Source="game.csproj" Description="Project file successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\game.csproj">
+</Event><Event ErrorLevel="0" Project="game" Source="Form1.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="game" Source="Form1.Designer.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="game" Source="Form2.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Form2.cs">
+</Event><Event ErrorLevel="0" Project="game" Source="Form2.Designer.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="game" Source="Form3.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Form3.cs">
+</Event><Event ErrorLevel="0" Project="game" Source="Form3.Designer.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Form3.Designer.cs">
+</Event><Event ErrorLevel="0" Project="game" Source="Form4.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Form4.cs">
+</Event><Event ErrorLevel="0" Project="game" Source="Form4.Designer.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Form4.Designer.cs">
+</Event><Event ErrorLevel="0" Project="game" Source="Form5.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Form5.cs">
+</Event><Event ErrorLevel="0" Project="game" Source="Form5.Designer.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Form5.Designer.cs">
+</Event><Event ErrorLevel="0" Project="game" Source="Program.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="game" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="game" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="game" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="game" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\gai_trai.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\gai_trai.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\gai_phai.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\gai_phai.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\Vatcan_1.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\Vatcan_1.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\Vatcan_11.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\Vatcan_11.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\boom.jpg" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\boom.jpg">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\bongno.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\bongno.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\3D_68.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\3D_68.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\mưa rơi.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\mưa rơi.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\new-1.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\new-1.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\new-2.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\new-2.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\new-21.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\new-21.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\3D_37.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\3D_37.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\new-6.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\new-6.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\new-3.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\new-3.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\new-4.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\new-4.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\new-5.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\new-5.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\new-7.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\new-7.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\new-71.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\new-71.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\new-8.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\new-8.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\new-81.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\new-81.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\new-9.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\new-9.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\new-0.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\new-0.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\new-00.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\new-00.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\new-01.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\new-01.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\new-02.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\new-02.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\new-03.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\new-03.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\new-20.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\new-20.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\3D_16.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\3D_16.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\3D_52.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\3D_52.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\3D_12.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\3D_12.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\3D_10.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\3D_10.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Resources\new-111.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Resources\new-111.gif">
+</Event><Event ErrorLevel="0" Project="game" Source="Form1.resx" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="game" Source="Form2.resx" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Form2.resx">
+</Event><Event ErrorLevel="0" Project="game" Source="Form3.resx" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Form3.resx">
+</Event><Event ErrorLevel="0" Project="game" Source="Form4.resx" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Form4.resx">
+</Event><Event ErrorLevel="0" Project="game" Source="Form5.resx" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Form5.resx">
+</Event><Event ErrorLevel="0" Project="game" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\Administrator\Downloads\Game-dẫn-bóng (1)\game\game\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="game" Source="game.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="game" Source="game.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="game" Source="game.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="game" Source="game.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
